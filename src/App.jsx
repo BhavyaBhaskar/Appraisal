@@ -2,9 +2,8 @@ import { useState } from "react";
 import Acedemic from "./pages/Acedemic";
 import Research from "./pages/Research";
 import Administrative from "./pages/Administrative";
-
 import SignUp from "./pages/SignUp";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 
 function App() {
   const [activeTab, setActiveTab] = useState("login");
