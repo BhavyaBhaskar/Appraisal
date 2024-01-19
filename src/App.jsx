@@ -6,7 +6,7 @@ import Login from "./pages/login";
 import SignUp from "./pages/SignUp";
 
 function App() {
-  const [activeTab, setActiveTab] = useState("signup");
+  const [activeTab, setActiveTab] = useState("login");
   console.log(activeTab);
 
   return (
