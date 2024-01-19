@@ -2,7 +2,7 @@ import { useState } from "react";
 import Acedemic from "./pages/Acedemic";
 import Research from "./pages/Research";
 import Administrative from "./pages/Administrative";
-import Login from "./pages/login";
+import Login from "./pages/Login";
 import SignUp from "./pages/SignUp";
 
 function App() {
